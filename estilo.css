@@ -1,0 +1,49 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color:#f3e4d6 
+}
+h1{
+    color:#8B423B;
+    text-align: center;
+}
+h2{
+    color:#b66763;
+    text-align: center;
+}
+h3{
+    color:#d68176
+    font-size:
+    
+}
+.conteudo-topo{ 
+    width:70%;
+    padding: 10px;
+    margin-left:200px;
+    margin-right:20px;
+}
+.conteudo-principal{ 
+    width: 70%;
+    padding:10px;
+    margin-left:200px;
+    margin-right:20px;
+    text-align: justify;
+}
+.imagem{
+    width:700px;
+    margin-left:300px;
+}
+.tudo{
+   
+    border: solid #8B423B 3px;
+    
+}
+img {
+    width: 700px;
+    height: 800%;
+    object-fit: cover;
+    object-position: 70% 100%;
+}
+
+.rodape{
+    background-color:#8B423B;
+}
