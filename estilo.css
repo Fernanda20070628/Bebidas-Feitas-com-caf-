@@ -1,6 +1,6 @@
 body{
     font-family: Arial, sans-serif;
-    background-color:#f3e4d6 
+    background-color:#f3e4d6;
 }
 h1{
     font-size:1cm;
@@ -11,11 +11,12 @@ h1{
 h2{
     color:#b66763;
     text-align: center;
+    font-size: 0.75cm;
 }
 h3{
     color:#d68176; 
 }
-.conteudo-topo{ 
+.conteudo-topo{
     width:70%;
     padding: 10px;
     margin-left:200px;
@@ -29,21 +30,19 @@ h3{
     text-align: justify;
 }
 .imagem{
-    width:700px;
-    margin-left:170px;
+    width:500px;
+    border-radius:15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
 }
 .tudo{
     border: solid #8B423B 3px;
     
 }
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 40%;
-}
 .rodape{
-    marge:0px;
+    margin:0px;
     padding:0px;
     background-color:#b55f57;
     text-align: justify;
@@ -73,3 +72,9 @@ h4{
     border-radius:15px;
     width: 30%;
    }
+#contato{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
