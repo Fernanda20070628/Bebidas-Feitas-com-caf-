@@ -10,8 +10,8 @@ h1{
 }
 .lista{
     display:flex;
-    justify: center;
-    
+    justify-content: center;
+    align-items: center; 
 }
 h2{
     color:#b66763;
