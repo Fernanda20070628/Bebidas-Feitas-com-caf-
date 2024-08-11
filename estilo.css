@@ -9,8 +9,7 @@ h1{
     font-weight:bold;
 }
 .lista{
-    display:flex;
-    justify-content: center;
+    display:inline;
 }
 h2{
     color:#b66763;
