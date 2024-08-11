@@ -9,7 +9,9 @@ h1{
     font-weight:bold;
 }
 .lista{
-    display:inline;
+   display: flex;
+    flex-direction: row; 
+    justify-content:space-around;
 }
 h2{
     color:#b66763;
