@@ -8,7 +8,10 @@ h1{
     text-align: center;
     font-weight:bold;
 }
-
+.lista{
+    display:flex;
+    
+}
 h2{
     color:#b66763;
     text-align: center;
