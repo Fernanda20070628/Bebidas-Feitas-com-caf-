@@ -47,11 +47,11 @@ h3{
     
 }
 .rodape{
+    background-color:#b55f57;
+    align-items: center;
     margin:0px;
     padding:0px;
-    background-color:#b55f57;
-    text-align: justify;
-     margin-left:30px;
+    text-align: center;
 }
 #bordaRedonda{
   border-radius:15px;
