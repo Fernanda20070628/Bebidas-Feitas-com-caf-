@@ -8,6 +8,16 @@ h1{
     text-align: center;
     font-weight:bold;
 }
+.botao{
+  background-color: #04AA6D;
+  color: white;
+  text-align: center;
+  display:flex; 
+  flex-direction: row;
+  justify-content: space-around;
+  cursor: pointer;
+}
+
 h2{
     color:#b66763;
     text-align: center;
