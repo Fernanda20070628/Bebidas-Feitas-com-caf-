@@ -11,7 +11,7 @@ h1{
 .lista{
     display: flex;
     flex-direction: row; 
-    justify-content:space-around;
+    justify-content:space-between;
 }
 h2{
     color:#b66763;
