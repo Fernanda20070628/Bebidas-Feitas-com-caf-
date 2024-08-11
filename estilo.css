@@ -10,6 +10,7 @@ h1{
 }
 .lista{
     display:flex;
+    justify: center;
     
 }
 h2{
